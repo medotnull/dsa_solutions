@@ -1,0 +1,10 @@
+Running Comparison
+
+Problem statement:
+Alice and Bob recently got into running, and decided to compare how much they ran on different days.
+They each ran for N days — on the ith day, Alice ran Ai meters and Bob ran Bi meters.
+
+On each day, Alice is unhappy if Bob ran strictly more than twice her distance, and happy otherwise.
+Similarly, Bob is unhappy if Alice ran strictly more than twice his distance, and happy otherwise.
+
+time taken to solve: 23 minutes
