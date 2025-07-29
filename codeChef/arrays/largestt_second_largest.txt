@@ -1,0 +1,9 @@
+Largest and Second Largest
+
+Problem Statement:
+
+You are given an array A of N integers.
+Find the maximum sum of two distinct integers in the array.
+
+Note: It is guaranteed that there exist at least two distinct integers in the array.
+
